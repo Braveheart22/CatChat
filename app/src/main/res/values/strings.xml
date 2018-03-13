@@ -5,4 +5,5 @@
     <string name="drafts_fragment">Drafts</string>
     <string name="sent_items_fragment">Sent Items</string>
     <string name="trash_fragment">Trash</string>
+    <string name="help_activity">Help</string>
 </resources>
