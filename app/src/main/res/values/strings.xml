@@ -7,4 +7,6 @@
     <string name="trash_fragment">Trash</string>
     <string name="help_activity">Help</string>
     <string name="feedback_activity">Feedback</string>
+
+    <string name="user_name">spot@catchat.com</string>
 </resources>
