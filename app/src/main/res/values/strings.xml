@@ -2,6 +2,6 @@
     <string name="app_name">CatChat</string>
 
     <string name="inbox_fragment">Inbox</string>
-
     <string name="drafts_fragment">Drafts</string>
+    <string name="sent_items_fragment">Sent Items</string>
 </resources>
