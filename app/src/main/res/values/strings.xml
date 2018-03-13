@@ -4,4 +4,5 @@
     <string name="inbox_fragment">Inbox</string>
     <string name="drafts_fragment">Drafts</string>
     <string name="sent_items_fragment">Sent Items</string>
+    <string name="trash_fragment">Trash</string>
 </resources>
